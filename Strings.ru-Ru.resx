@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Add" xml:space="preserve">
+    <value>Добавление</value>
+  </data>
+  <data name="Days" xml:space="preserve">
+    <value>д.</value>
+  </data>
+  <data name="Delete" xml:space="preserve">
+    <value>Удаление</value>
+  </data>
+  <data name="DeleteRequest" xml:space="preserve">
+    <value>Вы уверены?</value>
+  </data>
+  <data name="Director" xml:space="preserve">
+    <value>Режиссёр</value>
+  </data>
+  <data name="Edit" xml:space="preserve">
+    <value>Изменение</value>
+  </data>
+  <data name="ErrorNameIsEmpty" xml:space="preserve">
+    <value>Название диска не может быть пустым</value>
+  </data>
+  <data name="ErrorTypeIsEmpty" xml:space="preserve">
+    <value>Тип диска не может быть пустым</value>
+  </data>
+  <data name="FormAddTitle" xml:space="preserve">
+    <value>Добавление информации о диске</value>
+  </data>
+  <data name="FormDeleteTitle" xml:space="preserve">
+    <value>Удаление информации о диске</value>
+  </data>
+  <data name="FormEditTitle" xml:space="preserve">
+    <value>Изменение информации о диске</value>
+  </data>
+  <data name="FormFindTitle" xml:space="preserve">
+    <value>Поиск диска</value>
+  </data>
+  <data name="Genre" xml:space="preserve">
+    <value>Жанр</value>
+  </data>
+  <data name="Given" xml:space="preserve">
+    <value>Отдано</value>
+  </data>
+  <data name="Houres" xml:space="preserve">
+    <value>ч.</value>
+  </data>
+  <data name="IsCompaniesModified" xml:space="preserve">
+    <value>Введите название компании</value>
+  </data>
+  <data name="IsDebtorsModified" xml:space="preserve">
+    <value>Введите имя должника</value>
+  </data>
+  <data name="IsDirectorsModified" xml:space="preserve">
+    <value>Введите имя режиссёра</value>
+  </data>
+  <data name="IsGenresModified" xml:space="preserve">
+    <value>Введите название жанра</value>
+  </data>
+  <data name="IsStarsModified" xml:space="preserve">
+    <value>Введите имя актёра</value>
+  </data>
+  <data name="IsTypesModified" xml:space="preserve">
+    <value>Введите описание типа диска</value>
+  </data>
+  <data name="Length" xml:space="preserve">
+    <value>Длит.</value>
+  </data>
+  <data name="miAboutToolTip" xml:space="preserve">
+    <value>Отобразить информацию об авторе и версии программы</value>
+  </data>
+  <data name="miAddToolTip" xml:space="preserve">
+    <value>Добавить новый диск в коллекцию</value>
+  </data>
+  <data name="miDebtorsToolTip" xml:space="preserve">
+    <value>Отобразить список должников и дисков, которые им отданы</value>
+  </data>
+  <data name="miDeleteToolTip" xml:space="preserve">
+    <value>Удалить диск из коллекции</value>
+  </data>
+  <data name="miDictionariesToolTip" xml:space="preserve">
+    <value>Изменить данные справочников</value>
+  </data>
+  <data name="miEditToolTip" xml:space="preserve">
+    <value>Изменить информацию о диске</value>
+  </data>
+  <data name="miExitToolTip" xml:space="preserve">
+    <value>Завершить работу приложения</value>
+  </data>
+  <data name="miFindNextToolTip" xml:space="preserve">
+    <value>Найти следующий диск удовлетворяющий условию поиска</value>
+  </data>
+  <data name="miFindToolTip" xml:space="preserve">
+    <value>Найти диски удовлетворяющие условию поиска</value>
+  </data>
+  <data name="miGiveToolTip" xml:space="preserve">
+    <value>Поставить отметку о том, что диск отдан</value>
+  </data>
+  <data name="miNewToolTip" xml:space="preserve">
+    <value>Создать новую коллекцию дисков</value>
+  </data>
+  <data name="Minutes" xml:space="preserve">
+    <value>мин</value>
+  </data>
+  <data name="miOpenToolTip" xml:space="preserve">
+    <value>Открыть файл с данными о дисках</value>
+  </data>
+  <data name="miOptionsToolTip" xml:space="preserve">
+    <value>Настроить параметры работы программы</value>
+  </data>
+  <data name="miPageSetupToolTip" xml:space="preserve">
+    <value>Настройка параметров страницы</value>
+  </data>
+  <data name="miPreviewToolTip" xml:space="preserve">
+    <value>Просмотр списка дисков перед печатью</value>
+  </data>
+  <data name="miPrintToolTip" xml:space="preserve">
+    <value>Печать списка дисков</value>
+  </data>
+  <data name="miReturnToolTip" xml:space="preserve">
+    <value>Снять отметку о том, что диск был отдан</value>
+  </data>
+  <data name="miSaveAsToolTip" xml:space="preserve">
+    <value>Сохранить изменения в другом месте</value>
+  </data>
+  <data name="miSaveToolTip" xml:space="preserve">
+    <value>Сохранить изменения</value>
+  </data>
+  <data name="miSortCompanyToolTip" xml:space="preserve">
+    <value>Сортировать диски по компании производителю</value>
+  </data>
+  <data name="miSortDateToolTip" xml:space="preserve">
+    <value>Сортировать диски по дате</value>
+  </data>
+  <data name="miSortDirectorToolTip" xml:space="preserve">
+    <value>Сортировать диски по имени режиссёра</value>
+  </data>
+  <data name="miSortGenreToolTip" xml:space="preserve">
+    <value>Сортировать диски по жанру</value>
+  </data>
+  <data name="miSortLengthToolTip" xml:space="preserve">
+    <value>Сортировать диски по длительности</value>
+  </data>
+  <data name="miSortNameEngToolTip" xml:space="preserve">
+    <value>Сортировать диски по оригинальному названию</value>
+  </data>
+  <data name="miSortNameRusToolTip" xml:space="preserve">
+    <value>Сортировать диски по названию</value>
+  </data>
+  <data name="miSortRankToolTip" xml:space="preserve">
+    <value>Сортировать диски по рейтингу</value>
+  </data>
+  <data name="miSortSizeToolTip" xml:space="preserve">
+    <value>Сортировать диски по размеру файла</value>
+  </data>
+  <data name="miSortStarsToolTip" xml:space="preserve">
+    <value>Сортировать диски по именам актёров</value>
+  </data>
+  <data name="miSortTypeToolTip" xml:space="preserve">
+    <value>Сортировать диски по типу</value>
+  </data>
+  <data name="miSortYearToolTip" xml:space="preserve">
+    <value>Сортировать диски по году выпуска</value>
+  </data>
+  <data name="miStatToolTip" xml:space="preserve">
+    <value>Отобразить статистическую информацию о коллекции</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Название</value>
+  </data>
+  <data name="NoGiven" xml:space="preserve">
+    <value>Все диски находятся у владельца</value>
+  </data>
+  <data name="NotFound" xml:space="preserve">
+    <value>Диски не найдены</value>
+  </data>
+  <data name="Ready" xml:space="preserve">
+    <value>Готов</value>
+  </data>
+  <data name="ReturnRequest" xml:space="preserve">
+    <value>Вы уверены, что диск возвращён?</value>
+  </data>
+  <data name="Rights" xml:space="preserve">
+    <value>Все права защищены.</value>
+  </data>
+  <data name="SaveRequest" xml:space="preserve">
+    <value>Сохранить изменения?</value>
+  </data>
+  <data name="Seconds" xml:space="preserve">
+    <value>сек</value>
+  </data>
+  <data name="Size" xml:space="preserve">
+    <value>Размер</value>
+  </data>
+  <data name="Total" xml:space="preserve">
+    <value>Всего</value>
+  </data>
+  <data name="Version" xml:space="preserve">
+    <value>Версия</value>
+  </data>
+  <data name="Year" xml:space="preserve">
+    <value>Год</value>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Страница</value>
+  </data>
+  <data name="Find" xml:space="preserve">
+    <value>Поиск...</value>
+  </data>
+</root>
