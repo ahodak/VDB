@@ -1,0 +1,836 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <Entry>
+      <Name>А. Татарский</Name>
+    </Entry>
+    <Entry>
+      <Name>А. Шварцман</Name>
+    </Entry>
+    <Entry>
+      <Name>Айэйн Софтли</Name>
+    </Entry>
+    <Entry>
+      <Name>Алан Паркер</Name>
+    </Entry>
+    <Entry>
+      <Name>Алекс Прояс</Name>
+    </Entry>
+    <Entry>
+      <Name>Александр Роквелл</Name>
+    </Entry>
+    <Entry>
+      <Name>Александр Уитт</Name>
+    </Entry>
+    <Entry>
+      <Name>Алла Сурикова</Name>
+    </Entry>
+    <Entry>
+      <Name>Альберт Брукс</Name>
+    </Entry>
+    <Entry>
+      <Name>Альфонсо Куарон</Name>
+    </Entry>
+    <Entry>
+      <Name>Анджей Бартковяк</Name>
+    </Entry>
+    <Entry>
+      <Name>Анджей Секула</Name>
+    </Entry>
+    <Entry>
+      <Name>Андрей Тарковский</Name>
+    </Entry>
+    <Entry>
+      <Name>Антуан Фукуа</Name>
+    </Entry>
+    <Entry>
+      <Name>Анхель де ла Круз</Name>
+    </Entry>
+    <Entry>
+      <Name>Ариэль Зейтун</Name>
+    </Entry>
+    <Entry>
+      <Name>Баз Лурманн</Name>
+    </Entry>
+    <Entry>
+      <Name>Барбет Шредер</Name>
+    </Entry>
+    <Entry>
+      <Name>Барри Зонненфельд</Name>
+    </Entry>
+    <Entry>
+      <Name>Барри Левинсон</Name>
+    </Entry>
+    <Entry>
+      <Name>Барри Сколник</Name>
+    </Entry>
+    <Entry>
+      <Name>Бен Шарпстин</Name>
+    </Entry>
+    <Entry>
+      <Name>Бернар Бордери</Name>
+    </Entry>
+    <Entry>
+      <Name>Бет МакКартни</Name>
+    </Entry>
+    <Entry>
+      <Name>Бети Томас</Name>
+    </Entry>
+    <Entry>
+      <Name>Билл Мюрэй</Name>
+    </Entry>
+    <Entry>
+      <Name>Блэйк Эдвардс</Name>
+    </Entry>
+    <Entry>
+      <Name>Брайан Де Пальма</Name>
+    </Entry>
+    <Entry>
+      <Name>Брайан Сингер</Name>
+    </Entry>
+    <Entry>
+      <Name>Брек Айснер</Name>
+    </Entry>
+    <Entry>
+      <Name>Бретт Леонард</Name>
+    </Entry>
+    <Entry>
+      <Name>Брэд Рэтнер</Name>
+    </Entry>
+    <Entry>
+      <Name>Брэд Силберлинг</Name>
+    </Entry>
+    <Entry>
+      <Name>В. Караваев</Name>
+    </Entry>
+    <Entry>
+      <Name>В. Котёночкин</Name>
+    </Entry>
+    <Entry>
+      <Name>В. Полковников</Name>
+    </Entry>
+    <Entry>
+      <Name>В. Попов</Name>
+    </Entry>
+    <Entry>
+      <Name>Вейн Ванг</Name>
+    </Entry>
+    <Entry>
+      <Name>Вейн Роуз</Name>
+    </Entry>
+    <Entry>
+      <Name>Вики Дженсон</Name>
+    </Entry>
+    <Entry>
+      <Name>Виктор Титов</Name>
+    </Entry>
+    <Entry>
+      <Name>Винченцо Натали</Name>
+    </Entry>
+    <Entry>
+      <Name>Виталий Мухаметзянов</Name>
+    </Entry>
+    <Entry>
+      <Name>Владимир Бортко</Name>
+    </Entry>
+    <Entry>
+      <Name>Владимир Торопчин</Name>
+    </Entry>
+    <Entry>
+      <Name>Вольфганг Петерсен</Name>
+    </Entry>
+    <Entry>
+      <Name>Гай Манос</Name>
+    </Entry>
+    <Entry>
+      <Name>Гай Риччи</Name>
+    </Entry>
+    <Entry>
+      <Name>Гай Ферленд</Name>
+    </Entry>
+    <Entry>
+      <Name>Гарольд Рэмис</Name>
+    </Entry>
+    <Entry>
+      <Name>Гарт Дженнингс</Name>
+    </Entry>
+    <Entry>
+      <Name>Георгий Данелия</Name>
+    </Entry>
+    <Entry>
+      <Name>Гийом Никлу</Name>
+    </Entry>
+    <Entry>
+      <Name>Гиллермо дель Торо</Name>
+    </Entry>
+    <Entry>
+      <Name>Гор Вербински</Name>
+    </Entry>
+    <Entry>
+      <Name>Грегори Хоблит</Name>
+    </Entry>
+    <Entry>
+      <Name>Гриффин Данн</Name>
+    </Entry>
+    <Entry>
+      <Name>Гэвин Худ</Name>
+    </Entry>
+    <Entry>
+      <Name>Гэрри Маршал</Name>
+    </Entry>
+    <Entry>
+      <Name>Д. Черкасский</Name>
+    </Entry>
+    <Entry>
+      <Name>Даг Лайман</Name>
+    </Entry>
+    <Entry>
+      <Name>Даррелл Рунни</Name>
+    </Entry>
+    <Entry>
+      <Name>Денис Чернов</Name>
+    </Entry>
+    <Entry>
+      <Name>Джаник Файзиев</Name>
+    </Entry>
+    <Entry>
+      <Name>Джастин Лин</Name>
+    </Entry>
+    <Entry>
+      <Name>Джей Джей Абрамс</Name>
+    </Entry>
+    <Entry>
+      <Name>Джей Роуч</Name>
+    </Entry>
+    <Entry>
+      <Name>Джеймс Камерон</Name>
+    </Entry>
+    <Entry>
+      <Name>Джеймс Уонг</Name>
+    </Entry>
+    <Entry>
+      <Name>Джеймс Фоули</Name>
+    </Entry>
+    <Entry>
+      <Name>Джек Шолдер</Name>
+    </Entry>
+    <Entry>
+      <Name>Джерри Брукхеймер</Name>
+    </Entry>
+    <Entry>
+      <Name>Джимми Хэйуорд</Name>
+    </Entry>
+    <Entry>
+      <Name>Джо Джонстон</Name>
+    </Entry>
+    <Entry>
+      <Name>Джоан Чен</Name>
+    </Entry>
+    <Entry>
+      <Name>Джоахим Роеннинг</Name>
+    </Entry>
+    <Entry>
+      <Name>Джозеф Кан</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Бруно</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Ву</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Лэндис</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон МакТиернан</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Мускер</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Тертлтоуб</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Фавро</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Эмиел</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Эрман</Name>
+    </Entry>
+    <Entry>
+      <Name>Джонатан Демми</Name>
+    </Entry>
+    <Entry>
+      <Name>Джонатан Мостоу</Name>
+    </Entry>
+    <Entry>
+      <Name>Джордж Кьюкор</Name>
+    </Entry>
+    <Entry>
+      <Name>Джордж Лукас</Name>
+    </Entry>
+    <Entry>
+      <Name>Джоэл Коэн</Name>
+    </Entry>
+    <Entry>
+      <Name>Джоэл Шумахер</Name>
+    </Entry>
+    <Entry>
+      <Name>Доминик Сена</Name>
+    </Entry>
+    <Entry>
+      <Name>Дональд Петри</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Добкин</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Р. Эллис</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Рассел</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид С. Гойер</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Туи</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Финчер</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Фрэнкел</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэйл Секстон</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэнни Девито</Name>
+    </Entry>
+    <Entry>
+      <Name>Е.Пружанский</Name>
+    </Entry>
+    <Entry>
+      <Name>Жак Перрен</Name>
+    </Entry>
+    <Entry>
+      <Name>Жан Деланнуа</Name>
+    </Entry>
+    <Entry>
+      <Name>Жан-Поль Саламе</Name>
+    </Entry>
+    <Entry>
+      <Name>Жан-Пьер Жане</Name>
+    </Entry>
+    <Entry>
+      <Name>Жерар Кравчик</Name>
+    </Entry>
+    <Entry>
+      <Name>Жилль Амаду</Name>
+    </Entry>
+    <Entry>
+      <Name>Игорь Масленников</Name>
+    </Entry>
+    <Entry>
+      <Name>Илья Максимов</Name>
+    </Entry>
+    <Entry>
+      <Name>Ирвин Уинклер</Name>
+    </Entry>
+    <Entry>
+      <Name>Йеспер Меллер</Name>
+    </Entry>
+    <Entry>
+      <Name>Йохан Замбриски</Name>
+    </Entry>
+    <Entry>
+      <Name>Камерон Кроу</Name>
+    </Entry>
+    <Entry>
+      <Name>Карин Кусама</Name>
+    </Entry>
+    <Entry>
+      <Name>Карлос Салдана</Name>
+    </Entry>
+    <Entry>
+      <Name>Квентин Тарантино</Name>
+    </Entry>
+    <Entry>
+      <Name>Кевин Рейнольдс</Name>
+    </Entry>
+    <Entry>
+      <Name>Кевин Смит</Name>
+    </Entry>
+    <Entry>
+      <Name>Келли Асбюри</Name>
+    </Entry>
+    <Entry>
+      <Name>Керри Конран</Name>
+    </Entry>
+    <Entry>
+      <Name>Клод Зиди</Name>
+    </Entry>
+    <Entry>
+      <Name>Конрад Вернон</Name>
+    </Entry>
+    <Entry>
+      <Name>Константин Бронзит</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Бак</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Ведж</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Коламбус</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Миллер</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Робертс</Name>
+    </Entry>
+    <Entry>
+      <Name>Крис Томсон</Name>
+    </Entry>
+    <Entry>
+      <Name>Кристиан Макинтайр</Name>
+    </Entry>
+    <Entry>
+      <Name>Ксавьер Генс</Name>
+    </Entry>
+    <Entry>
+      <Name>Курт Уиммер</Name>
+    </Entry>
+    <Entry>
+      <Name>Л.Филатов</Name>
+    </Entry>
+    <Entry>
+      <Name>Леиф Грам</Name>
+    </Entry>
+    <Entry>
+      <Name>Лен Уайзман</Name>
+    </Entry>
+    <Entry>
+      <Name>Леонид Гайдай</Name>
+    </Entry>
+    <Entry>
+      <Name>Ли Тамахори</Name>
+    </Entry>
+    <Entry>
+      <Name>Лоуренс Гутерман</Name>
+    </Entry>
+    <Entry>
+      <Name>Лоуренс Касдан</Name>
+    </Entry>
+    <Entry>
+      <Name>Луи Летерье</Name>
+    </Entry>
+    <Entry>
+      <Name>Луис Льоса</Name>
+    </Entry>
+    <Entry>
+      <Name>Люк Бессон</Name>
+    </Entry>
+    <Entry>
+      <Name>Люк Жаке</Name>
+    </Entry>
+    <Entry>
+      <Name>Майкл Бэй</Name>
+    </Entry>
+    <Entry>
+      <Name>Майкл Кэйтон-Джонс</Name>
+    </Entry>
+    <Entry>
+      <Name>Майкл Леманн</Name>
+    </Entry>
+    <Entry>
+      <Name>Марк Райделл</Name>
+    </Entry>
+    <Entry>
+      <Name>Марко Брамбилла</Name>
+    </Entry>
+    <Entry>
+      <Name>Мартин Бёрк</Name>
+    </Entry>
+    <Entry>
+      <Name>Мартин Брест</Name>
+    </Entry>
+    <Entry>
+      <Name>Мартин Кэмпбелл</Name>
+    </Entry>
+    <Entry>
+      <Name>Мик Джексон</Name>
+    </Entry>
+    <Entry>
+      <Name>Михаил Козаков</Name>
+    </Entry>
+    <Entry>
+      <Name>Мэтью Вогн</Name>
+    </Entry>
+    <Entry>
+      <Name>Мэтью Кассовиц</Name>
+    </Entry>
+    <Entry>
+      <Name>Нил Бургер</Name>
+    </Entry>
+    <Entry>
+      <Name>Нил Джордан</Name>
+    </Entry>
+    <Entry>
+      <Name>Нора Эфрон</Name>
+    </Entry>
+    <Entry>
+      <Name>Нэнси Мейерс</Name>
+    </Entry>
+    <Entry>
+      <Name>Оливер Стоун</Name>
+    </Entry>
+    <Entry>
+      <Name>Оливье Даан</Name>
+    </Entry>
+    <Entry>
+      <Name>Оливье Мегатон</Name>
+    </Entry>
+    <Entry>
+      <Name>Пенелопа Сфирис</Name>
+    </Entry>
+    <Entry>
+      <Name>Пенни Маршалл</Name>
+    </Entry>
+    <Entry>
+      <Name>Песке</Name>
+    </Entry>
+    <Entry>
+      <Name>Пирс Браснан</Name>
+    </Entry>
+    <Entry>
+      <Name>Пит Доктер</Name>
+    </Entry>
+    <Entry>
+      <Name>Пит Трэвис</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Берг</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Веббер</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Веир</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Джексон</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Сигал</Name>
+    </Entry>
+    <Entry>
+      <Name>Питер Хаем</Name>
+    </Entry>
+    <Entry>
+      <Name>Питоф</Name>
+    </Entry>
+    <Entry>
+      <Name>Пол Андерсон</Name>
+    </Entry>
+    <Entry>
+      <Name>Пол Верховен</Name>
+    </Entry>
+    <Entry>
+      <Name>Рассел Малкехи</Name>
+    </Entry>
+    <Entry>
+      <Name>Рейне Роел</Name>
+    </Entry>
+    <Entry>
+      <Name>Ренни Харлин</Name>
+    </Entry>
+    <Entry>
+      <Name>Ридли Скотт</Name>
+    </Entry>
+    <Entry>
+      <Name>Ричард Доннер</Name>
+    </Entry>
+    <Entry>
+      <Name>Роб Кохен</Name>
+    </Entry>
+    <Entry>
+      <Name>Роберт Земескис</Name>
+    </Entry>
+    <Entry>
+      <Name>Роберт Либерман</Name>
+    </Entry>
+    <Entry>
+      <Name>Роберт Родригес</Name>
+    </Entry>
+    <Entry>
+      <Name>Роберт Швентке</Name>
+    </Entry>
+    <Entry>
+      <Name>Роджер Споттисвуд</Name>
+    </Entry>
+    <Entry>
+      <Name>Роджер Янг</Name>
+    </Entry>
+    <Entry>
+      <Name>Роланд Эммерик</Name>
+    </Entry>
+    <Entry>
+      <Name>Роман Поланский</Name>
+    </Entry>
+    <Entry>
+      <Name>Рон Хавард</Name>
+    </Entry>
+    <Entry>
+      <Name>Саймон Уэст</Name>
+    </Entry>
+    <Entry>
+      <Name>Самуэль Голдвин</Name>
+    </Entry>
+    <Entry>
+      <Name>Сержио Леоне</Name>
+    </Entry>
+    <Entry>
+      <Name>Сидней Поллак</Name>
+    </Entry>
+    <Entry>
+      <Name>София Коппола</Name>
+    </Entry>
+    <Entry>
+      <Name>Стенли Кубрик</Name>
+    </Entry>
+    <Entry>
+      <Name>Стефан Фьельдмарк</Name>
+    </Entry>
+    <Entry>
+      <Name>Стефен Соммерс</Name>
+    </Entry>
+    <Entry>
+      <Name>Стив Бэк</Name>
+    </Entry>
+    <Entry>
+      <Name>Стив Бэррон</Name>
+    </Entry>
+    <Entry>
+      <Name>Стив Карр</Name>
+    </Entry>
+    <Entry>
+      <Name>Стивен Меткальф</Name>
+    </Entry>
+    <Entry>
+      <Name>Стивен Норрингтон</Name>
+    </Entry>
+    <Entry>
+      <Name>Стивен Соммерс</Name>
+    </Entry>
+    <Entry>
+      <Name>Стивен Спилберг</Name>
+    </Entry>
+    <Entry>
+      <Name>Стиви "Спаз" Вилльямс</Name>
+    </Entry>
+    <Entry>
+      <Name>Стюарт Бэирд</Name>
+    </Entry>
+    <Entry>
+      <Name>Тейлор Хэкворд</Name>
+    </Entry>
+    <Entry>
+      <Name>Терри Гиллиам</Name>
+    </Entry>
+    <Entry>
+      <Name>Тим Бёртон</Name>
+    </Entry>
+    <Entry>
+      <Name>Тим Стори</Name>
+    </Entry>
+    <Entry>
+      <Name>Тимур Бекмамбетов</Name>
+    </Entry>
+    <Entry>
+      <Name>Том Вон</Name>
+    </Entry>
+    <Entry>
+      <Name>Том Джей</Name>
+    </Entry>
+    <Entry>
+      <Name>Том Дэй</Name>
+    </Entry>
+    <Entry>
+      <Name>Том Холлэнд</Name>
+    </Entry>
+    <Entry>
+      <Name>Том Шедьяк</Name>
+    </Entry>
+    <Entry>
+      <Name>Томас Ян</Name>
+    </Entry>
+    <Entry>
+      <Name>Тони Скотт</Name>
+    </Entry>
+    <Entry>
+      <Name>Тсуи Харк</Name>
+    </Entry>
+    <Entry>
+      <Name>Ули Эдел</Name>
+    </Entry>
+    <Entry>
+      <Name>Ф. Гэри Грэй</Name>
+    </Entry>
+    <Entry>
+      <Name>Фил Типпет</Name>
+    </Entry>
+    <Entry>
+      <Name>Филлида Ллойд</Name>
+    </Entry>
+    <Entry>
+      <Name>Фрейзер Хестон</Name>
+    </Entry>
+    <Entry>
+      <Name>Френсис Лоуренс</Name>
+    </Entry>
+    <Entry>
+      <Name>Френсис Форд Коппола</Name>
+    </Entry>
+    <Entry>
+      <Name>Фрэнк Дарабонт</Name>
+    </Entry>
+    <Entry>
+      <Name>Фрэнк Корачи</Name>
+    </Entry>
+    <Entry>
+      <Name>Фрэнк Ниссен</Name>
+    </Entry>
+    <Entry>
+      <Name>Фрэнк Роддэм</Name>
+    </Entry>
+    <Entry>
+      <Name>Хавьер Элорриета</Name>
+    </Entry>
+    <Entry>
+      <Name>Хидео Наката</Name>
+    </Entry>
+    <Entry>
+      <Name>Хиронобу Сакагучи</Name>
+    </Entry>
+    <Entry>
+      <Name>Ховард Дойч</Name>
+    </Entry>
+    <Entry>
+      <Name>Хэмильтон Ласки</Name>
+    </Entry>
+    <Entry>
+      <Name>Чак Расселл</Name>
+    </Entry>
+    <Entry>
+      <Name>Чарльз Рассел</Name>
+    </Entry>
+    <Entry>
+      <Name>Чжан Имоу</Name>
+    </Entry>
+    <Entry>
+      <Name>Шери Фоксон</Name>
+    </Entry>
+    <Entry>
+      <Name>Эдвард Цвик</Name>
+    </Entry>
+    <Entry>
+      <Name>Элисон Андерс</Name>
+    </Entry>
+    <Entry>
+      <Name>Эмиль Ардолино</Name>
+    </Entry>
+    <Entry>
+      <Name>Энди и Ларри Вачовски</Name>
+    </Entry>
+    <Entry>
+      <Name>Эндрю Адамсон</Name>
+    </Entry>
+    <Entry>
+      <Name>Эндрю Бергман</Name>
+    </Entry>
+    <Entry>
+      <Name>Эндрю Никкол</Name>
+    </Entry>
+    <Entry>
+      <Name>Эндрю Стантон</Name>
+    </Entry>
+    <Entry>
+      <Name>Энтони Мингелла</Name>
+    </Entry>
+    <Entry>
+      <Name>Эрни Барбараш</Name>
+    </Entry>
+    <Entry>
+      <Name>Юрий Кулаков</Name>
+    </Entry>
+    <Entry>
+      <Name>Ян Де Бон</Name>
+    </Entry>
+    <Entry>
+      <Name>Виталий Правдивцев</Name>
+    </Entry>
+    <Entry>
+      <Name>Жан Коунен</Name>
+    </Entry>
+    <Entry>
+      <Name>Фархад Манн</Name>
+    </Entry>
+    <Entry>
+      <Name>Майкл Эптид</Name>
+    </Entry>
+    <Entry>
+      <Name>Джон Синглтон</Name>
+    </Entry>
+    <Entry>
+      <Name>Рэндал Клайзер</Name>
+    </Entry>
+    <Entry>
+      <Name>Винсент Уорд</Name>
+    </Entry>
+    <Entry>
+      <Name>Владимир Попков</Name>
+    </Entry>
+    <Entry>
+      <Name>Тим Поуп</Name>
+    </Entry>
+    <Entry>
+      <Name>Бхарат Наллури </Name>
+    </Entry>
+    <Entry>
+      <Name>Лэнс Мунджиа</Name>
+    </Entry>
+    <Entry>
+      <Name>Эрик Бревиг</Name>
+    </Entry>
+    <Entry>
+      <Name>Матье Кассовиц </Name>
+    </Entry>
+    <Entry>
+      <Name>Джонатан Линн</Name>
+    </Entry>
+    <Entry>
+      <Name>Пол Майкл Глэйзер</Name>
+    </Entry>
+    <Entry>
+      <Name>Кришна Рао</Name>
+    </Entry>
+    <Entry>
+      <Name>Крейг Р.Баксли </Name>
+    </Entry>
+    <Entry>
+      <Name>Ян Фрид</Name>
+    </Entry>
+    <Entry>
+      <Name>Майк Ньюэлл</Name>
+    </Entry>
+    <Entry>
+      <Name>Дэвид Йэтс</Name>
+    </Entry>
+  </Entries>
+</Data>

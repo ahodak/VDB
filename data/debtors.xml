@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <Entry>
+      <Name>Тарасов Дмитрий</Name>
+    </Entry>
+    <Entry>
+      <Name>Спиридонов Сергей</Name>
+    </Entry>
+    <Entry>
+      <Name>Чистяков Сергей</Name>
+    </Entry>
+    <Entry>
+      <Name>Бирюков Ренат</Name>
+    </Entry>
+    <Entry>
+      <Name>Юсов Александр</Name>
+    </Entry>
+    <Entry>
+      <Name>Лисенков Вячеслав</Name>
+    </Entry>
+    <Entry>
+      <Name>Половикова Надежда</Name>
+    </Entry>
+    <Entry>
+      <Name>Першин Вячеслав</Name>
+    </Entry>
+    <Entry>
+      <Name>Ковалёв Семён</Name>
+    </Entry>
+    <Entry>
+      <Name>Анцупова Елена</Name>
+    </Entry>
+    <Entry>
+      <Name>Дёмин Влад</Name>
+    </Entry>
+    <Entry>
+      <Name>Перелыгин Павел</Name>
+    </Entry>
+    <Entry>
+      <Name>Гончарова Елена</Name>
+    </Entry>
+    <Entry>
+      <Name>Федоренко Александр</Name>
+    </Entry>
+  </Entries>
+</Data>

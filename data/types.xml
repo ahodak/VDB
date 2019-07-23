@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entries>
+    <Entry>
+      <Name>DVD</Name>
+    </Entry>
+    <Entry>
+      <Name>MPEG-4</Name>
+    </Entry>
+    <Entry>
+      <Name>Video CD</Name>
+    </Entry>
+  </Entries>
+</Data>
